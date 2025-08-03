@@ -18,9 +18,9 @@
 
 ## Estrutura do Código
 
-/OB1 - Programa principal
-/FC1 - DT_DATE (Conversão para data)
-/FC2 - DT_DAY (Dia da semana)  
-/FC3 - DT_TOD (Horário)
-/DB1 - Armazenamento de valores temporais
-/VAT1 - Tabela de monitoramento
+- /OB1 - Programa principal
+- /FC1 - DT_DATE (Conversão para data)
+- /FC2 - DT_DAY (Dia da semana)
+- /FC3 - DT_TOD (Horário)
+- /DB1 - Armazenamento de valores temporais
+- /VAT1 - Tabela de monitoramento
